@@ -11,7 +11,7 @@
 
   - name: add the jenkins repo
     get_url:
-      url: htt
+      url: http://
       dest: 
 
   - name: import a key file from jenkins-ci
